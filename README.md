@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## hey there :)
+I'm Alyn and I'm a current undergrad studying math.
+Feel free to reach out at ay7huang@uwaterloo.ca !
 <!--
 **dogwter/dogwter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
